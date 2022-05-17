@@ -1,0 +1,45 @@
+body{
+    background-color: burlywood;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-size: large;
+    text-align: justify;
+    
+}
+    
+main{
+    
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2em;
+}
+.container{
+text-align:right;
+margin-left: 85;
+
+}
+h1{
+    text-align: center;
+}
+.salute{
+    margin-left: 70px;
+}
+
+.address{
+  margin-left: 1000px;
+
+
+} 
+    
+    .close{
+        text-align: right;
+    }
+
+    .line{
+        background-color: black;
+        height: 5px;
+        width: 300px;
+        margin-left: 85%;
+       
+    }
+
